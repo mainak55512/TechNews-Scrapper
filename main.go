@@ -1,9 +1,9 @@
 package main
 
 import (
-	sc "tectnews-scrapper/scrapper"
-	cw "tectnews-scrapper/csvwriter"
-	ml "tectnews-scrapper/emailer"
+	cw "github.com/mainak55512/TechNews-Scrapper/csvwriter"
+	ml "github.com/mainak55512/TechNews-Scrapper/emailer"
+	sc "github.com/mainak55512/TechNews-Scrapper/scrapper"
 )
 
 func main() {

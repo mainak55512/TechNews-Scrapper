@@ -1,4 +1,4 @@
-module tectnews-scrapper
+module github.com/mainak55512/TechNews-Scrapper
 
 go 1.19
 
